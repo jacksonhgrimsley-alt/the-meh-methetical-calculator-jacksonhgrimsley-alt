@@ -1,1 +1,1 @@
-# the-meh-methetical-calculator-jacksonhgrimsley-alt
+# the-meh-thematical-calculator-jacksonhgrimsley-alt
