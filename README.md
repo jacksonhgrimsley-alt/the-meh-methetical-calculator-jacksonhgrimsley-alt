@@ -1,24 +1,30 @@
 # the-meh-thematical-calculator-jacksonhgrimsley-alt
 
-##Purpose
+**Purpose**
 
   -This project was an attempt at making a calculator that would give you a humorous responce after each use. The purpose of this project was to give users a fun and humorous way to solve math equations.it also exposed me to codes that i have never used before so practice with those type of codes help build my knowledge and expierance.istruggled with getting the simulation to loop after each use.
 
-##requirments
+**requirments**
   
   -Python3
   
   -visual studio code
 
-##installation
+**Features**
+
+  -Basic Math Operations: Addition, subtraction, multiplication, and division.
+
+  -Unimpressed Commentary: Get half-hearted remarks after every calculation.
+
+**installation**
 
   -clone repository into visual studio or see code through github.
   
-  -#testing
+  **testing**
    
     -Play button is on the top right of the visual studio
 
-##contribution
+**contribution**
   
   -code reviews
     
@@ -26,6 +32,6 @@
 
   -readme reviews
 
-##licences
+**licences**
  
   -This project is licensed under the MIT License.
